@@ -1,1 +1,3 @@
-
+TargetVersion = "v1"
+Forceupdate = false
+CustomizeURL = "https://t.me/DEVILCHEAT_OP"
